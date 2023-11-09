@@ -8,6 +8,7 @@
                 <h2>{{ destination.name }}</h2>
 
                 <img :src="'/images/' + destination.image " :alt="destination.name">
+                .
             </router-link>
         </div>
     </div>
